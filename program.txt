@@ -12,4 +12,9 @@ my patch
 =======
 
 urgent patch
+<<<<<<< ours
+>>>>>>> theirs
+=======
+#newfature
+
 >>>>>>> theirs
