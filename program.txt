@@ -1,5 +1,10 @@
 #feature 1
 #patch 1.1
+<<<<<<< ours
+#patch 2.1
+=======
 #patch 2.1
 
 my patch
+#test1
+>>>>>>> theirs
