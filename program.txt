@@ -17,4 +17,8 @@ urgent patch
 =======
 #newfature
 
+<<<<<<< ours
+>>>>>>> theirs
+=======
+#and more
 >>>>>>> theirs
