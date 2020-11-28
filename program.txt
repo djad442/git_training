@@ -18,7 +18,17 @@ urgent patch
 #newfature
 
 <<<<<<< ours
+<<<<<<< ours
 >>>>>>> theirs
 =======
+#and more
+>>>>>>> theirs
+=======
+my patch
+#test1
+
+urgent patch
+#newfature
+
 #and more
 >>>>>>> theirs
