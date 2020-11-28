@@ -7,4 +7,9 @@
 
 my patch
 #test1
+<<<<<<< ours
+>>>>>>> theirs
+=======
+
+urgent patch
 >>>>>>> theirs
